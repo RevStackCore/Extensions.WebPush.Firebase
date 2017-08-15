@@ -1,0 +1,17 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RevStackCore.Extensions.WebPush.Firebase", "RevStackCore.Extensions.WebPush.Firebase\RevStackCore.Extensions.WebPush.Firebase.csproj", "{B28DD090-AD89-47DA-B1EA-85EA45BB2962}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B28DD090-AD89-47DA-B1EA-85EA45BB2962}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B28DD090-AD89-47DA-B1EA-85EA45BB2962}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B28DD090-AD89-47DA-B1EA-85EA45BB2962}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B28DD090-AD89-47DA-B1EA-85EA45BB2962}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

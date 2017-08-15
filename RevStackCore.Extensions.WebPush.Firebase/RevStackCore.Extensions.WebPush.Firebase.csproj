@@ -1,0 +1,19 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard1.6</TargetFramework>
+    <PackageId>RevStackCore.Extensions.WebPush.Firebase</PackageId>
+    <PackageVersion>1.0.0</PackageVersion>
+    <Authors>S. Francis</Authors>
+    <Description>Firebase push notification client </Description>
+    <PackageRequireLicenseAcceptance>false</PackageRequireLicenseAcceptance>
+    <PackageReleaseNotes>Net Standard 1.6 release</PackageReleaseNotes>
+    <Copyright>Copyright 2017</Copyright>
+    <PackageTags>RevStackCore Firebase Push Notification</PackageTags>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="RevStackCore.Extensions.Serialization.SnakeCase" Version="1.0.0" />
+    <PackageReference Include="RevStackCore.Net" Version="1.0.6" />
+  </ItemGroup>
+</Project>
